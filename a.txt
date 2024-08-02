@@ -1,2 +1,4 @@
 new thing added
 same line
+same line 1
+
